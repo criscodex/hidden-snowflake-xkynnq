@@ -1,0 +1,11 @@
+/* You shouldn't need to edit this file, but who am I to say not to? 🤷 */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+div#map {
+  width: 100vw;
+  height: 100vh;
+}
